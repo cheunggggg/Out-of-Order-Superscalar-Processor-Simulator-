@@ -1,4 +1,4 @@
-# Out-of-Order Superscalar Processor Simulator — ECE M116C / CS M151B
+# Out-of-Order Superscalar Processor Simulator
 
 A cycle-accurate simulator for an N-wide out-of-order superscalar processor. Models a 5-stage pipeline (Fetch → Dispatch → Schedule → Execute → State Update) with a centralized reservation station, multiple functional unit types, result buses (CDBs), and half-cycle pipeline latch behavior.
 This project was created for ECE M116C at UCLA. FALL 2025
